@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "band, spotify and omdb response app",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Hello World\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irohdesign/liri-node-app.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "npm"
+  ],
+  "author": "Jalia Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irohdesign/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/irohdesign/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown-events": "^1.0.4",
+    "dotenv": "^6.2.0",
+    "install": "^0.12.2",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
